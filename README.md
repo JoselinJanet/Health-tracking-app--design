@@ -1,0 +1,1 @@
+This project is about the app design using Figma tool.EV is the future vehicles that all gonna use.So this app design plays a vital role in searching the nearest charging station that could help the EV users.
